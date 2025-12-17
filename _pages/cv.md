@@ -42,30 +42,33 @@ I'm a student at Cornell University studying Mechanical Engineering. I am curren
 device in Fusion 360. Ergonomics, aesthetics, and strict height and manufacturing constraints were kept in mind.  
   - Used structural analysis simulations in Fusion360 to ensure load bearing structures had a desired factor of safety. 
 
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **Kinetic Sub-team Co-Lead, Combat Robotics @ Cornell**:  
+  *During my junior year (2024-2025), I was on of the leads of the Kinetic Sub-team on my project team. The Kinetic Sub-team designs a 12 pound combat robot with a high kinetic energy weapon from scratch each year, and then manufactures and assembles it in order to compete at an NHRL competition in the spring.*  
+  - Developed a timeline that outlines goals and deadlines on a meeting-to-meeting basis for the entire academic year.
+  - Delegated tasks and responsibilities to teammates based on interest and skill level as well as provided technical 
+guidance in things like CADing and speccing calculations to new members that were still learning.
+  - Worked closely with other leads of the team to maintain steady progress in the team’s yearly design cycles, safety 
+for the members, and a fun, supportive and inclusive environment for members of all experience levels.
 
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+- **Fluid Mechanisms - Intern**  
+  [June 2025, Year] - [August, 2025]  
+  - Inspected various helicopter parts and assemblies designed by companies like Boeing and Sikorsky to verify rivet 
+sizes, deburring, and tolerances on the order of thousandths. I also calibrated precision tools such as micrometers. 
+  - Worked with parts drawings, relevant paperwork, and created an extensive database of the tools used in the 
+Quality Department to keep the department organized and save massive amounts of time on day-to-day work. 
 
 ---
 
 #### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
+- Red Apron Trained, Emerson Machine Shop, Cornell University, 2024 
 
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- Full Team Lead of Combat Robotics @ Cornell 
 
 ---
 
