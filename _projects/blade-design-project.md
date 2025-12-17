@@ -2,7 +2,7 @@
 layout: project
 title: Blade Design Project
 description: Advanced CAD Project
-technologies: [Autodesk Fusion, MATLAB]
+technologies: [Autodesk Fusion]
 image: /assets/images/radio-machine-cad.jpg
 ---
 
