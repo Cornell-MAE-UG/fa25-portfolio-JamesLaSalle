@@ -13,33 +13,34 @@ permalink: /cv/
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+I'm a student at Cornell University studying Mechanical Engineering. I am currently one of the full team leads of the Combat Robotics @ Cornell project team, and I spend most of my time working on 12 pound combat robots with high kinetic energy weapons to compete at events hosted by the National Havoc Robot League (NHRL). 
 
 ---
 
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  GPA: 3.8/4.0 | Graduation: May 2026
 
-- **[High School Name]**  
+- **John F. Kennedy High School, Bellmore NY**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: June 2022
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Software:** Autodesk Fusion 360, ANSYS, Simulink, Microsoft Office, LabVIEW
+- **Programming:** Python, MATLAB
+- **Tools:** 3D Printing, Mills, Lathes, Soldering, Tapping
 
 ---
 
 #### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **Robotic Exercise Machine Project**:  
+  *During the summer of 2024, I helped two Cornell alumni design, iterate, and prototype a robotic exercise machine for their startup company.*  
+  - Modeled and partially designed an entire prototype system of lifts, weights, mixture dispensers, and a user input 
+device in Fusion 360. Ergonomics, aesthetics, and strict height and manufacturing constraints were kept in mind.  
+  - Used structural analysis simulations in Fusion360 to ensure load bearing structures had a desired factor of safety. 
 
 - **[Project Title]**:  
   *[Short Description]*  
