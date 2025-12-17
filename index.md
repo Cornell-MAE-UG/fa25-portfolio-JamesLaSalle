@@ -6,7 +6,7 @@ title: James LaSalle
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/profile-pic.JPG" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
 
  
 My name is {{ site.name }}, and I am one of the full team leads of the Combat Robotics @ Cornell project team. My team builds combat robots to compete at events hosted by the National Havoc Robot League. 
